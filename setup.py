@@ -1,12 +1,12 @@
 from setuptools import setup
 
-setup(name='Uwu',
+setup(name='Ghey',
       version='0.0.1',
       author='Zai',
-      packages=['uwu'],
+      packages=['ghey'],
       description='A text to speech and speech to text model',
       license='GNU',
       install_requires=[
-            'torch','torchaudio'
+       
       ],
 )
